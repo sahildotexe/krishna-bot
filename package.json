@@ -1,0 +1,19 @@
+{
+  "name": "krsna-whatsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^16.0.3",
+    "express": "4.17",
+    "openai": "^3.1.0",
+    "twilio": "^3.54.2"
+  }
+}
